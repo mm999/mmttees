@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.6.0"
+  name = "ts1"
+  org = "mengrong"
+  version = "0.1.0"
+
